@@ -1,2 +1,3 @@
-# Demo-01
-Code example of some components from one of multiple projects
+# Vue code sample
+
+This is code sample of component from one of multiple projects developed with Vue
